@@ -1059,7 +1059,19 @@
     <ClCompile Include="BOJ4803.cpp">
       <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ4803_ans.cpp">
+    <ClCompile Include="BOJ1068.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1068_2.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1068_3.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1068_4.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1068_ans.cpp">
       <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
   </ItemGroup>

@@ -15,6 +15,14 @@ public:
 		parent.resize(N, -1);
 		children.resize(N);
 	}
+	void appendChild(int a, int b) {//두 노드 모두 처음보는 노드고, 추후 통합될 것이었다면 답이 없긴 한데,
+		int root = visited[a] ? a : b;
+		int chd = visited[a] ? b : a;
+		child[root].push_back(chd);
+		parent[chd] = root;
+		visited[chd] = true;
+	}
+
 	void print() {
 		for (int i = 0; i < N; i++) {
 			cout << "노드: " << i << ": parent(";
