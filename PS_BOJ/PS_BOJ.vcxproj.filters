@@ -1074,6 +1074,12 @@
     <ClCompile Include="BOJ1068_ans.cpp">
       <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
+    <ClCompile Include="BOJ1068_5.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1068_6.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
