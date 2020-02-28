@@ -66,7 +66,7 @@ bool Rush(Tree& tree, int from) {//from 섬으로부터 1번 섬으로 러쉬
 		tree.country[next].population -= tree.country[from].population;
 		if (tree.country[next].population <= 0) {
 			tree.country[next].isWolf = false;
-			tree.visited[from] = true;
+			//tree.visited[from] = true;
 			tree.country[next].population *= -1;
 		}
 		tree.country[from].population = 0;
