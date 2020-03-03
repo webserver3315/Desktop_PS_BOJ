@@ -10,23 +10,29 @@
 #define ss second
 #define pii pair<int,int>
 using namespace std;
+/*
+BOJ2550 1번코드를 가변ROOT도 가능하도록 수정한 버전.
+근데 왜인지 90%(퍼센트는 의미없지만) 대에서 틀렸다는 판정이 나온다.
+*/
+int N;
 
 class Tree {
 public:
 	int N;
 	vector<int> parent;
 	vector<pii> child;
-	
+
 	int x_num = 1;
 	int maxLev;
 	int maxLevDist;
 	int maxdepth = 0;
+	int root;
 	vector<int> x_val;
 	vector<int> level;
 	vector<pii> level_MinAndMax;
 	vector<int> level_dist;
-	
-	Tree():N(0){}
+
+	Tree() :N(0) {}
 	Tree(int n) :N(n) {
 		parent.resize(N, -1);
 		child.resize(N);
@@ -85,9 +91,17 @@ public:
 			}
 		}
 	}
+	void find_root() {
+		for (int i = 1; i <= N; i++) {
+			if (parent[i] == -1) {
+				root = i;
+				break;
+			}
+		}
+	}
 };
 
-int N;
+
 int main() {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL); cout.tie(NULL);
@@ -102,8 +116,9 @@ int main() {
 		cin >> a >> b >> c;
 		tree.appendChild(a, b, c);
 	}
-	tree.level_update(1);
-	tree.x_update(1);
+	tree.find_root();
+	tree.level_update(tree.root, 1);
+	tree.x_update(tree.root);
 	tree.get_maxDist();
 	cout << tree.maxLev << ' ' << tree.maxLevDist << endl;
 

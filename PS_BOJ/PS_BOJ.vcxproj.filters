@@ -1098,10 +1098,22 @@
     <ClCompile Include="BOJ2250.cpp">
       <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
+    <ClCompile Include="BOJ4256_2.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\트리</Filter>
+    </ClCompile>
     <ClCompile Include="BOJ4256.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2250_2.cpp">
       <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ4256_2.cpp">
+    <ClCompile Include="BOJ2250_3.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2250_4.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2250_ans.cpp">
       <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
   </ItemGroup>
