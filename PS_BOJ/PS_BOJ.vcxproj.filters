@@ -15,59 +15,8 @@
     <Filter Include="소스 파일\BOJ\Solved">
       <UniqueIdentifier>{53ec9154-ab65-40a7-9dd5-422280af84cb}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\Samsung">
-      <UniqueIdentifier>{fb37e57c-f4aa-450e-a9a6-2825fd298f86}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\BackTracking">
-      <UniqueIdentifier>{282d12f9-a528-4de7-b1b2-68172803f04c}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\BackTracking\N and M">
-      <UniqueIdentifier>{24a832f7-1b06-454b-8720-785f3af00686}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\CodeForce">
-      <UniqueIdentifier>{02982b7c-76c9-483a-859e-3f9574d592ce}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\CodeForce\2019.09.19">
-      <UniqueIdentifier>{0916277e-1803-41f7-91e1-e503f1618e8c}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\CodeForce\2019.09.29">
-      <UniqueIdentifier>{0856004e-1dce-4e2f-9420-d0aca1506a41}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\CodeForce\2019.10.01">
-      <UniqueIdentifier>{f87a426b-38be-4661-9d5f-e979948e28b4}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\CodeForce\2019.10.25">
-      <UniqueIdentifier>{4407d51d-6f99-431b-85f3-69f9797484e4}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\CodeForce\2019.11.14">
-      <UniqueIdentifier>{2814f27f-46e4-4192-9c12-70c5fa886941}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\CodeForce\2019.12.21">
-      <UniqueIdentifier>{ed27df46-3061-48b7-b9a5-7fe41dd3d6bd}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\CodeForce\2020.01.22">
-      <UniqueIdentifier>{9715773d-ad5a-4cee-a735-a24cb0c541d7}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\JongMan">
-      <UniqueIdentifier>{7117bf80-a588-4861-98a3-e9dcd2f5c5bf}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\Zinc">
-      <UniqueIdentifier>{c9ae6e2b-f6c6-4127-a09c-6d071d2a2041}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\BOJ\Solved\Assisted">
       <UniqueIdentifier>{d6a2c02f-c677-40a7-b5bc-a989f68a1d36}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\NPC">
-      <UniqueIdentifier>{bb8b9a81-57ce-4a18-9069-e753d5114444}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\NPC\UnionFind">
-      <UniqueIdentifier>{230e9594-8f90-4afa-ad4a-60b81e06b6c2}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\NPC\SegmentTree">
-      <UniqueIdentifier>{764cfa09-343d-4b9e-9359-71aa4492d149}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\NotoriousCoincidence">
-      <UniqueIdentifier>{1d3e5c88-3e43-438d-bb21-25825036b378}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\BOJ\Solving">
       <UniqueIdentifier>{25231a29-93f0-44a8-a495-a5d83d2b15ee}</UniqueIdentifier>
@@ -103,35 +52,11 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\CodeForce\2020.02.02">
-      <UniqueIdentifier>{2fcdf1a0-8df0-4c6f-b2a2-a696e0b06392}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\CodeForce\2020.02.04">
-      <UniqueIdentifier>{5e2a9b9e-50ce-406e-9310-e2905988d92d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\BackTracking\N and M 2">
-      <UniqueIdentifier>{2ed7b00a-7c12-44ad-bbc1-a8ddc289fe85}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\CodeForce\2020.02.09">
-      <UniqueIdentifier>{0a37d833-310b-4292-99a9-d925c99ebb59}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\BOJ\Unsolved\NotoriousCoincidence">
       <UniqueIdentifier>{15c72ab3-76bc-413c-acad-958858db3ba9}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\BOJ\Solved\kks227_blog">
       <UniqueIdentifier>{0ae58078-20b8-4951-a6f5-acb291d2ebe5}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\Gilazabi">
-      <UniqueIdentifier>{becdffd6-c3cb-4be3-857a-0c10bcaba344}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\Gilazabi\SET2">
-      <UniqueIdentifier>{5dd81431-016b-4831-833a-1869307722ac}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\Gilazabi\SET3">
-      <UniqueIdentifier>{5689c744-46ca-4970-80e4-285b8d235ea4}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\Gilazabi\SET4">
-      <UniqueIdentifier>{6e89de02-5a9f-4cf7-a081-789a3dd521fc}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\BOJ\Solved\kks227_blog\트리">
       <UniqueIdentifier>{2f8d5310-2dbf-4a72-a294-d7bf7ede9646}</UniqueIdentifier>
@@ -139,241 +64,325 @@
     <Filter Include="소스 파일\BOJ\Solved\kks227_blog\비트마스크">
       <UniqueIdentifier>{d115f4bd-c3af-413d-80c7-15f00894e5a2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\알고리즘양학">
+      <UniqueIdentifier>{d7231937-8cae-4712-9c60-2ee952a56761}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\알고리즘양학\DP">
+      <UniqueIdentifier>{de0de972-9c79-4184-bee6-b6d935cb49eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\알고리즘양학\백트래킹">
+      <UniqueIdentifier>{282d12f9-a528-4de7-b1b2-68172803f04c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M">
+      <UniqueIdentifier>{24a832f7-1b06-454b-8720-785f3af00686}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M 2">
+      <UniqueIdentifier>{2ed7b00a-7c12-44ad-bbc1-a8ddc289fe85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\알고리즘양학\길라잡이">
+      <UniqueIdentifier>{becdffd6-c3cb-4be3-857a-0c10bcaba344}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET2">
+      <UniqueIdentifier>{5dd81431-016b-4831-833a-1869307722ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3">
+      <UniqueIdentifier>{5689c744-46ca-4970-80e4-285b8d235ea4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET4">
+      <UniqueIdentifier>{6e89de02-5a9f-4cf7-a081-789a3dd521fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\종만북">
+      <UniqueIdentifier>{7117bf80-a588-4861-98a3-e9dcd2f5c5bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\코포">
+      <UniqueIdentifier>{02982b7c-76c9-483a-859e-3f9574d592ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\코포\2019.09.19">
+      <UniqueIdentifier>{0916277e-1803-41f7-91e1-e503f1618e8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\코포\2019.09.29">
+      <UniqueIdentifier>{0856004e-1dce-4e2f-9420-d0aca1506a41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\코포\2019.10.01">
+      <UniqueIdentifier>{f87a426b-38be-4661-9d5f-e979948e28b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\코포\2019.10.25">
+      <UniqueIdentifier>{4407d51d-6f99-431b-85f3-69f9797484e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\코포\2019.11.14">
+      <UniqueIdentifier>{2814f27f-46e4-4192-9c12-70c5fa886941}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\코포\2019.12.21">
+      <UniqueIdentifier>{ed27df46-3061-48b7-b9a5-7fe41dd3d6bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\코포\2020.01.22">
+      <UniqueIdentifier>{9715773d-ad5a-4cee-a735-a24cb0c541d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\코포\2020.02.02">
+      <UniqueIdentifier>{2fcdf1a0-8df0-4c6f-b2a2-a696e0b06392}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\코포\2020.02.04">
+      <UniqueIdentifier>{5e2a9b9e-50ce-406e-9310-e2905988d92d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\코포\2020.02.09">
+      <UniqueIdentifier>{0a37d833-310b-4292-99a9-d925c99ebb59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence">
+      <UniqueIdentifier>{1d3e5c88-3e43-438d-bb21-25825036b378}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\알고리즘양학\Samsung">
+      <UniqueIdentifier>{fb37e57c-f4aa-450e-a9a6-2825fd298f86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\Assisted\Zinc">
+      <UniqueIdentifier>{c9ae6e2b-f6c6-4127-a09c-6d071d2a2041}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\Assisted\HS">
+      <UniqueIdentifier>{219b1efb-db76-491d-a220-7558c87738f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\알고리즘양학\NPC">
+      <UniqueIdentifier>{bb8b9a81-57ce-4a18-9069-e753d5114444}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\알고리즘양학\NPC\UnionFind">
+      <UniqueIdentifier>{230e9594-8f90-4afa-ad4a-60b81e06b6c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\알고리즘양학\NPC\SegmentTree">
+      <UniqueIdentifier>{764cfa09-343d-4b9e-9359-71aa4492d149}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q9095.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET2</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET2</Filter>
     </ClCompile>
     <ClCompile Include="Q11047.cpp">
-      <Filter>소스 파일\BOJ\Solved\Zinc</Filter>
+      <Filter>소스 파일\BOJ\Solved\Assisted\Zinc</Filter>
     </ClCompile>
     <ClCompile Include="Q2875.cpp">
-      <Filter>소스 파일\BOJ\Solved\Zinc</Filter>
+      <Filter>소스 파일\BOJ\Solved\Assisted\Zinc</Filter>
     </ClCompile>
     <ClCompile Include="Q10610.cpp">
-      <Filter>소스 파일\BOJ\Solved\Zinc</Filter>
+      <Filter>소스 파일\BOJ\Solved\Assisted\Zinc</Filter>
     </ClCompile>
     <ClCompile Include="Q1783.cpp">
-      <Filter>소스 파일\BOJ\Solved\Zinc</Filter>
+      <Filter>소스 파일\BOJ\Solved\Assisted\Zinc</Filter>
     </ClCompile>
     <ClCompile Include="Q1783_ans.cpp">
-      <Filter>소스 파일\BOJ\Solved\Zinc</Filter>
+      <Filter>소스 파일\BOJ\Solved\Assisted\Zinc</Filter>
     </ClCompile>
     <ClCompile Include="Q1931.cpp">
-      <Filter>소스 파일\BOJ\Solved\Zinc</Filter>
+      <Filter>소스 파일\BOJ\Solved\Assisted\Zinc</Filter>
     </ClCompile>
     <ClCompile Include="A.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.09.19</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.09.19</Filter>
     </ClCompile>
     <ClCompile Include="B.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.09.19</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.09.19</Filter>
     </ClCompile>
     <ClCompile Include="C.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.09.19</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.09.19</Filter>
     </ClCompile>
     <ClCompile Include="Q11399.cpp">
-      <Filter>소스 파일\BOJ\Solved\Zinc</Filter>
+      <Filter>소스 파일\BOJ\Solved\Assisted\Zinc</Filter>
     </ClCompile>
     <ClCompile Include="Q1744.cpp">
-      <Filter>소스 파일\BOJ\Solved\Zinc</Filter>
+      <Filter>소스 파일\BOJ\Solved\Assisted\Zinc</Filter>
     </ClCompile>
     <ClCompile Include="Q1987.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="Q1759.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="Q1759_sol.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="Q1759_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="190929A.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.09.29</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.09.29</Filter>
     </ClCompile>
     <ClCompile Include="190929B.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.09.29</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.09.29</Filter>
     </ClCompile>
     <ClCompile Include="190929C.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.09.29</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.09.29</Filter>
     </ClCompile>
     <ClCompile Include="BOJ13460.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ13460_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="1001A.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.10.01</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.10.01</Filter>
     </ClCompile>
     <ClCompile Include="1001B.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.10.01</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.10.01</Filter>
     </ClCompile>
     <ClCompile Include="1001C.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.10.01</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.10.01</Filter>
     </ClCompile>
     <ClCompile Include="1019E.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.10.01</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.10.01</Filter>
     </ClCompile>
     <ClCompile Include="1001D.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.10.01</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.10.01</Filter>
     </ClCompile>
     <ClCompile Include="BOJ13460_3.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="JM6-1.cpp">
-      <Filter>소스 파일\BOJ\Solved\JongMan</Filter>
+      <Filter>소스 파일\BOJ\Solved\종만북</Filter>
     </ClCompile>
     <ClCompile Include="BOJ13460_4.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1182.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15650_Moikkai.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15649.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15649_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15649_sol.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15650.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15649_Moikkai.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15650_Monikkai.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15649_MoNikkai.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="Combination.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="BOJ17472.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="Permutation.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="BOJ17472_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="MultisetPermutation.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="MultisetCombination.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="Permutation_MoNikkai.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="Combination_MoNikkai.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15654.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15655.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15656.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15657.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15663.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15663_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15664.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15665.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15666.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M</Filter>
     </ClCompile>
     <ClCompile Include="BOJ13458.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2580_sol.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2580.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ14502.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="191025A.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.10.25</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.10.25</Filter>
     </ClCompile>
     <ClCompile Include="191025A_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.10.25</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.10.25</Filter>
     </ClCompile>
     <ClCompile Include="191025A_3.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.10.25</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.10.25</Filter>
     </ClCompile>
     <ClCompile Include="BOJ3190.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ3190_ans.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="SWEA1206.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ14889.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET2</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET2</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15686.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET2</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET2</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1260_3.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET3</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1260_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET3</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1260.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET3</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2667_BFS.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET3</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2667_DFS.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET3</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1697.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET3</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2178.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET3</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2606.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET3</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1003.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET3</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1463.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET3</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2579.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET3</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3</Filter>
     </ClCompile>
     <ClCompile Include="1101A.cpp">
       <Filter>소스 파일\BOJ\Unsolved\Until_2019.12.09\2019.11.01</Filter>
@@ -385,28 +394,22 @@
       <Filter>소스 파일\BOJ\Unsolved\Until_2019.12.09\2019.11.01</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1932_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET3</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1932.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET3</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1149.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET3</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3</Filter>
     </ClCompile>
     <ClCompile Include="BOJ7569.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET3</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ9466_HS.cpp">
-      <Filter>소스 파일\BOJ\Solved\Assisted</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ9466_HS_UF.cpp">
-      <Filter>소스 파일\BOJ\Solved\Assisted</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3</Filter>
     </ClCompile>
     <ClCompile Include="BOJ11727.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET3</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1912.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET3</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3</Filter>
     </ClCompile>
     <ClCompile Include="2019.11.04A.cpp">
       <Filter>소스 파일\BOJ\Unsolved\Until_2019.12.09\2019.11.04</Filter>
@@ -421,115 +424,115 @@
       <Filter>소스 파일\BOJ\Unsolved\Until_2019.12.09\2019.11.04</Filter>
     </ClCompile>
     <ClCompile Include="BOJ11052.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET3</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1931.cpp">
       <Filter>소스 파일\BOJ\Unsolved\Until_2019.12.09\Hitsuyonasi</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2110_assisted.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET3</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3</Filter>
     </ClCompile>
     <ClCompile Include="PriorityQueueTest.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET3</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET3</Filter>
     </ClCompile>
     <ClCompile Include="BOJ11047.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET4</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET4</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2529.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET4</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET4</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1654.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET4</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET4</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1654_long.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET4</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET4</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1927.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET4</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET4</Filter>
     </ClCompile>
     <ClCompile Include="BOJ11279.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET4</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET4</Filter>
     </ClCompile>
     <ClCompile Include="BOJ11286.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET4</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET4</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1715.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET4</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET4</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1655_3.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET4</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET4</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1655_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET4</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET4</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1655.cpp">
-      <Filter>소스 파일\BOJ\Solved\Gilazabi\SET4</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\길라잡이\SET4</Filter>
     </ClCompile>
     <ClCompile Include="BOJ11723.cpp">
       <Filter>소스 파일\BOJ\Solved\kks227_blog\비트마스크</Filter>
     </ClCompile>
     <ClCompile Include="BOJ12100.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ12100_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ12100_callStack.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ12100_callStack2.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ16236.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ16236_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ16236_3.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ16236_4.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ16236_5.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ16236_nodeque.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ16236_usingSortFuncSimpler.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ16236_usingSortFunc.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ14501.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="191114A.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.11.14</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.11.14</Filter>
     </ClCompile>
     <ClCompile Include="191114B.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.11.14</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.11.14</Filter>
     </ClCompile>
     <ClCompile Include="191114C.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.11.14</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.11.14</Filter>
     </ClCompile>
     <ClCompile Include="191114C_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.11.14</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.11.14</Filter>
     </ClCompile>
     <ClCompile Include="191114C_2_disguise.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.11.14</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.11.14</Filter>
     </ClCompile>
     <ClCompile Include="191114D.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.11.14</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.11.14</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1976.cpp">
-      <Filter>소스 파일\BOJ\Solved\NPC\UnionFind</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NPC\UnionFind</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1717.cpp">
-      <Filter>소스 파일\BOJ\Solved\NPC\UnionFind</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NPC\UnionFind</Filter>
     </ClCompile>
     <ClCompile Include="191127A.cpp">
       <Filter>소스 파일\BOJ\Unsolved\Until_2019.12.09\2019.11.27</Filter>
@@ -640,34 +643,34 @@
       <Filter>소스 파일\BOJ\Unsolved\PersistentSegmentTree</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2042.cpp">
-      <Filter>소스 파일\BOJ\Solved\NPC\SegmentTree</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NPC\SegmentTree</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2042_ans.cpp">
-      <Filter>소스 파일\BOJ\Solved\NPC\SegmentTree</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NPC\SegmentTree</Filter>
     </ClCompile>
     <ClCompile Include="BOJ16978.cpp">
       <Filter>소스 파일\BOJ\Unsolved\PersistentSegmentTree</Filter>
     </ClCompile>
     <ClCompile Include="SegTree.cpp">
-      <Filter>소스 파일\BOJ\Solved\NPC\SegmentTree</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NPC\SegmentTree</Filter>
     </ClCompile>
     <ClCompile Include="191221A.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.12.21</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.12.21</Filter>
     </ClCompile>
     <ClCompile Include="191221B.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.12.21</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.12.21</Filter>
     </ClCompile>
     <ClCompile Include="191221C.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.12.21</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.12.21</Filter>
     </ClCompile>
     <ClCompile Include="191221D.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.12.21</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.12.21</Filter>
     </ClCompile>
     <ClCompile Include="191221E.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.12.21</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.12.21</Filter>
     </ClCompile>
     <ClCompile Include="191221C2.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2019.12.21</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2019.12.21</Filter>
     </ClCompile>
     <ClCompile Include="LinkedList1.cpp">
       <Filter>소스 파일\SWEA_B_Exam</Filter>
@@ -697,19 +700,19 @@
       <Filter>소스 파일\SWEA_B_Exam</Filter>
     </ClCompile>
     <ClCompile Include="200122A.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.01.22</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.01.22</Filter>
     </ClCompile>
     <ClCompile Include="200122B.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.01.22</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.01.22</Filter>
     </ClCompile>
     <ClCompile Include="200122C.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.01.22</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.01.22</Filter>
     </ClCompile>
     <ClCompile Include="200122C2.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.01.22</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.01.22</Filter>
     </ClCompile>
     <ClCompile Include="200122D.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.01.22</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.01.22</Filter>
     </ClCompile>
     <ClCompile Include="SamsungSample.cpp">
       <Filter>리소스 파일</Filter>
@@ -730,208 +733,208 @@
       <Filter>리소스 파일\SanKouYou</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2309.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2309_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ3040.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ9506.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ10181.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15610.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ15610_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ16600.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="StringDivisor.cpp">
       <Filter>리소스 파일\SanKouYou</Filter>
     </ClCompile>
     <ClCompile Include="200202A.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.02.02</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.02.02</Filter>
     </ClCompile>
     <ClCompile Include="200202B.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.02.02</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.02.02</Filter>
     </ClCompile>
     <ClCompile Include="200202C.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.02.02</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.02.02</Filter>
     </ClCompile>
     <ClCompile Include="200202D.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.02.02</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.02.02</Filter>
     </ClCompile>
     <ClCompile Include="200202A2.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.02.02</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.02.02</Filter>
     </ClCompile>
     <ClCompile Include="200202B_TC.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.02.02</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.02.02</Filter>
     </ClCompile>
     <ClCompile Include="200202B_KasuAri.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.02.02</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.02.02</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1011.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1101_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1132.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1251.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1251_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1251_3.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1251_4.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1669.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1699.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1699_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1699_3.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1837.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1837_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2061.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ4395.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1339.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1132_3.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1132_4.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1132_5.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1132_6.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1132_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="200204A.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.02.04</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.02.04</Filter>
     </ClCompile>
     <ClCompile Include="200204D.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.02.04</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.02.04</Filter>
     </ClCompile>
     <ClCompile Include="200204B.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.02.04</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.02.04</Filter>
     </ClCompile>
     <ClCompile Include="200204C.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.02.04</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.02.04</Filter>
     </ClCompile>
     <ClCompile Include="200204C2.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.02.04</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.02.04</Filter>
     </ClCompile>
     <ClCompile Include="200204C3.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.02.04</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.02.04</Filter>
     </ClCompile>
     <ClCompile Include="NandM1.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M 2</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M 2</Filter>
     </ClCompile>
     <ClCompile Include="NandM2.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M 2</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M 2</Filter>
     </ClCompile>
     <ClCompile Include="NandM3.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M 2</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M 2</Filter>
     </ClCompile>
     <ClCompile Include="NandM4.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M 2</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M 2</Filter>
     </ClCompile>
     <ClCompile Include="NandM9.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M 2</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M 2</Filter>
     </ClCompile>
     <ClCompile Include="NandM9_before.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M 2</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M 2</Filter>
     </ClCompile>
     <ClCompile Include="NandM10.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M 2</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M 2</Filter>
     </ClCompile>
     <ClCompile Include="NandM11.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M 2</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M 2</Filter>
     </ClCompile>
     <ClCompile Include="NandM12.cpp">
-      <Filter>소스 파일\BOJ\Solved\BackTracking\N and M 2</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\백트래킹\N and M 2</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1132_7.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="SquareMaker.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="MinusModTest.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="InputOutputDiffChecker.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="floatSignificantFigureTest.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ17433_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ17433.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2671_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2671.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1684_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1684.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1013.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="200209C2.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.02.09</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.02.09</Filter>
     </ClCompile>
     <ClCompile Include="200209C.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.02.09</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.02.09</Filter>
     </ClCompile>
     <ClCompile Include="200209B.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.02.09</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.02.09</Filter>
     </ClCompile>
     <ClCompile Include="200209A.cpp">
-      <Filter>소스 파일\BOJ\Solved\CodeForce\2020.02.09</Filter>
+      <Filter>소스 파일\BOJ\Solved\코포\2020.02.09</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1890.cpp">
       <Filter>소스 파일\BOJ\Unsolved\NotoriousCoincidence</Filter>
@@ -964,70 +967,70 @@
       <Filter>소스 파일\BOJ\Unsolved\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ14502_R.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ4179.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ4179_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ4179_3.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ4179_4.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ4179_5.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ4179_ans1.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ5427.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ5427_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ5427_3.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ3055.cpp">
-      <Filter>소스 파일\BOJ\Solved\NotoriousCoincidence</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\NotoriousCoincidence</Filter>
     </ClCompile>
     <ClCompile Include="BOJ14503_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ14503.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ17142_RunTime.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ17142_ans.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ17142_AC.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ17142_4.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ17142_3.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ17142_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ17142.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ17140_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="BOJ17140.cpp">
-      <Filter>소스 파일\BOJ\Solved\Samsung</Filter>
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="Tree.cpp">
       <Filter>리소스 파일\SanKouYou</Filter>
@@ -1120,18 +1123,33 @@
       <Filter>소스 파일\BOJ\Solved\kks227_blog\트리</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1949.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\트리</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1949_2.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ1949_ans.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\트리</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1949_3.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\트리</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1949_4.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1949_ans.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2579_2.cpp">
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ9466_HS.cpp">
+      <Filter>소스 파일\BOJ\Solved\Assisted\HS</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ9466_HS_UF.cpp">
+      <Filter>소스 파일\BOJ\Solved\Assisted\HS</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2533.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2533_2.cpp">
       <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
   </ItemGroup>
