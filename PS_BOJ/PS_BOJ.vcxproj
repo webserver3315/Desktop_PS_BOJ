@@ -691,6 +691,22 @@
     <ClCompile Include="BOJ1932_2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="BOJ1949.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="BOJ1949_2.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">TRUE</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="BOJ1949_3.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="BOJ1949_4.cpp" />
+    <ClCompile Include="BOJ1949_ans.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">TRUE</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="BOJ1967.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">TRUE</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="BOJ1976.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">TRUE</ExcludedFromBuild>
     </ClCompile>
@@ -706,7 +722,9 @@
     <ClCompile Include="BOJ2250_3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="BOJ2250_4.cpp" />
+    <ClCompile Include="BOJ2250_4.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="BOJ2250_ans.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
