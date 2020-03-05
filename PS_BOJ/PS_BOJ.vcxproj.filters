@@ -67,9 +67,6 @@
     <Filter Include="소스 파일\BOJ\Solved\알고리즘양학">
       <UniqueIdentifier>{d7231937-8cae-4712-9c60-2ee952a56761}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\BOJ\Solved\알고리즘양학\DP">
-      <UniqueIdentifier>{de0de972-9c79-4184-bee6-b6d935cb49eb}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\BOJ\Solved\알고리즘양학\백트래킹">
       <UniqueIdentifier>{282d12f9-a528-4de7-b1b2-68172803f04c}</UniqueIdentifier>
     </Filter>
@@ -147,6 +144,9 @@
     </Filter>
     <Filter Include="소스 파일\BOJ\Solved\알고리즘양학\NPC\SegmentTree">
       <UniqueIdentifier>{764cfa09-343d-4b9e-9359-71aa4492d149}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\kks227_blog\DP">
+      <UniqueIdentifier>{de0de972-9c79-4184-bee6-b6d935cb49eb}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -1138,7 +1138,7 @@
       <Filter>소스 파일\BOJ\Solved\kks227_blog\트리</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2579_2.cpp">
-      <Filter>소스 파일\BOJ\Solved\알고리즘양학\DP</Filter>
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\DP</Filter>
     </ClCompile>
     <ClCompile Include="BOJ9466_HS.cpp">
       <Filter>소스 파일\BOJ\Solved\Assisted\HS</Filter>
@@ -1147,9 +1147,18 @@
       <Filter>소스 파일\BOJ\Solved\Assisted\HS</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2533.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\트리</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2533_2.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ9465.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2294.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2294_2.cpp">
       <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
   </ItemGroup>
