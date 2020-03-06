@@ -148,6 +148,12 @@
     <Filter Include="소스 파일\BOJ\Solved\kks227_blog\DP">
       <UniqueIdentifier>{de0de972-9c79-4184-bee6-b6d935cb49eb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\알고리즘양학\기타BOJ">
+      <UniqueIdentifier>{759e112c-d910-4574-a8ad-ee059f3aa078}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\WorkSpace">
+      <UniqueIdentifier>{f968e45f-3c49-4140-9c0e-3e7ce07ae321}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q9095.cpp">
@@ -1155,11 +1161,47 @@
     <ClCompile Include="BOJ9465.cpp">
       <Filter>소스 파일\BOJ\Solved\kks227_blog\DP</Filter>
     </ClCompile>
+    <ClCompile Include="BOJ2294_2.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\DP</Filter>
+    </ClCompile>
     <ClCompile Include="BOJ2294.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ12865.cpp">
       <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ2294_2.cpp">
+    <ClCompile Include="BOJ11055.cpp">
       <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ11055_2.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ11945.cpp">
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\기타BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ16500.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ16500_2.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ11051_2.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ11051.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ11057.cpp">
+      <Filter>소스 파일\BOJ\WorkSpace</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10844_ans.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10844.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ11057_ans.cpp">
+      <Filter>소스 파일\BOJ\WorkSpace</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
