@@ -154,6 +154,9 @@
     <Filter Include="소스 파일\BOJ\WorkSpace">
       <UniqueIdentifier>{f968e45f-3c49-4140-9c0e-3e7ce07ae321}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\kks227_blog\이진탐색트리">
+      <UniqueIdentifier>{727b45e8-303f-4d87-918b-55e87c81dccb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q9095.cpp">
@@ -699,9 +702,6 @@
     <ClCompile Include="HashTable1.cpp">
       <Filter>소스 파일\SWEA_B_Exam</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ1620.cpp">
-      <Filter>소스 파일\SWEA_B_Exam</Filter>
-    </ClCompile>
     <ClCompile Include="maptest.cpp">
       <Filter>소스 파일\SWEA_B_Exam</Filter>
     </ClCompile>
@@ -1203,10 +1203,16 @@
     <ClCompile Include="BOJ16500_2.cpp">
       <Filter>소스 파일\BOJ\Unsolved</Filter>
     </ClCompile>
+    <ClCompile Include="BOJ1269_2.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\이진탐색트리</Filter>
+    </ClCompile>
     <ClCompile Include="BOJ1269.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\이진탐색트리</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1620.cpp">
       <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ1269_2.cpp">
+    <ClCompile Include="BOJ1620_2.cpp">
       <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
   </ItemGroup>
