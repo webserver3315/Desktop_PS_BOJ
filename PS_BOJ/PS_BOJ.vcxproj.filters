@@ -1167,41 +1167,47 @@
     <ClCompile Include="BOJ2294.cpp">
       <Filter>소스 파일\BOJ\Solved\kks227_blog\DP</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ12865.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ11055.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ11055_2.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
-    </ClCompile>
     <ClCompile Include="BOJ11945.cpp">
       <Filter>소스 파일\BOJ\Solved\알고리즘양학\기타BOJ</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ16500.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ16500_2.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ11051_2.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
+    <ClCompile Include="BOJ10844.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\DP</Filter>
     </ClCompile>
     <ClCompile Include="BOJ11051.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ11057.cpp">
-      <Filter>소스 파일\BOJ\WorkSpace</Filter>
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\DP</Filter>
     </ClCompile>
     <ClCompile Include="BOJ10844_ans.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\DP</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ10844.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
+    <ClCompile Include="BOJ11051_2.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ11055.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ11055_2.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ11057.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\DP</Filter>
     </ClCompile>
     <ClCompile Include="BOJ11057_ans.cpp">
-      <Filter>소스 파일\BOJ\WorkSpace</Filter>
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ12865.cpp">
+      <Filter>소스 파일\BOJ\Unsolved</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ16500.cpp">
+      <Filter>소스 파일\BOJ\Unsolved</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ16500_2.cpp">
+      <Filter>소스 파일\BOJ\Unsolved</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1269.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1269_2.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
