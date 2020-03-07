@@ -1215,6 +1215,15 @@
     <ClCompile Include="BOJ1620_2.cpp">
       <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
+    <ClCompile Include="BOJ1351.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2287.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1904.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
