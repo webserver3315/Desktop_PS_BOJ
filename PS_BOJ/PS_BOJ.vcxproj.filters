@@ -157,6 +157,9 @@
     <Filter Include="소스 파일\BOJ\Solved\kks227_blog\이진탐색트리">
       <UniqueIdentifier>{727b45e8-303f-4d87-918b-55e87c81dccb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\kks227_blog\우선순위큐">
+      <UniqueIdentifier>{7d88b585-b538-4c3c-a54e-67a0c4f07223}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q9095.cpp">
@@ -1209,25 +1212,37 @@
     <ClCompile Include="BOJ1269.cpp">
       <Filter>소스 파일\BOJ\Solved\kks227_blog\이진탐색트리</Filter>
     </ClCompile>
+    <ClCompile Include="BOJ1351.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\이진탐색트리</Filter>
+    </ClCompile>
     <ClCompile Include="BOJ1620.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\이진탐색트리</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1620_2.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ1351.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ2287.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\이진탐색트리</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1904.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\이진탐색트리</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2193.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\이진탐색트리</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2193_ans.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\이진탐색트리</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2287.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\이진탐색트리</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ11279_2.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1927_2.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ11286_2.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ11286_3.cpp">
       <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
   </ItemGroup>
