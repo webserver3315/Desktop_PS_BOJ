@@ -160,6 +160,9 @@
     <Filter Include="소스 파일\BOJ\Solved\kks227_blog\힙">
       <UniqueIdentifier>{7d88b585-b538-4c3c-a54e-67a0c4f07223}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\kks227_blog\유니온파인드">
+      <UniqueIdentifier>{7a761447-6b80-46b6-bbcd-025586bdaf2d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q9095.cpp">
@@ -1254,11 +1257,14 @@
     <ClCompile Include="BOJ2075_2.cpp">
       <Filter>소스 파일\BOJ\Solved\kks227_blog\힙</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ2014.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
-    </ClCompile>
     <ClCompile Include="BOJ2696.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\힙</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2014.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\힙</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1717_2.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
