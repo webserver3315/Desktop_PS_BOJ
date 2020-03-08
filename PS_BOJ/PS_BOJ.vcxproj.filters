@@ -1264,6 +1264,12 @@
       <Filter>소스 파일\BOJ\Solved\kks227_blog\힙</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1717_2.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\유니온파인드</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1976_2.cpp">
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\유니온파인드</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ16562.cpp">
       <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
   </ItemGroup>
