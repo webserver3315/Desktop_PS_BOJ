@@ -163,6 +163,9 @@
     <Filter Include="소스 파일\BOJ\Solved\kks227_blog\유니온파인드">
       <UniqueIdentifier>{7a761447-6b80-46b6-bbcd-025586bdaf2d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\SKKU_Univ">
+      <UniqueIdentifier>{f188a81d-a0d5-4e57-a233-be6e3b1fee67}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q9095.cpp">
@@ -1273,7 +1276,25 @@
       <Filter>소스 파일\BOJ\Solved\kks227_blog\유니온파인드</Filter>
     </ClCompile>
     <ClCompile Include="BOJ4195.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
+      <Filter>소스 파일\BOJ\Solved\kks227_blog\유니온파인드</Filter>
+    </ClCompile>
+    <ClCompile Include="PC33.cpp">
+      <Filter>소스 파일\SKKU_Univ</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ4388_ans.cpp">
+      <Filter>소스 파일\SKKU_Univ</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10053.cpp">
+      <Filter>소스 파일\SKKU_Univ</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10053_2.cpp">
+      <Filter>소스 파일\SKKU_Univ</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10053_3.cpp">
+      <Filter>소스 파일\SKKU_Univ</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10053_clean2.cpp">
+      <Filter>소스 파일\SKKU_Univ</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
