@@ -166,6 +166,12 @@
     <Filter Include="소스 파일\SKKU_Univ">
       <UniqueIdentifier>{f188a81d-a0d5-4e57-a233-be6e3b1fee67}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\코포\2020.03.12">
+      <UniqueIdentifier>{65a22fc2-a294-4208-b94f-73cf44b190be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\기타">
+      <UniqueIdentifier>{2daa56fd-362d-4229-afe8-fad25cb3ceee}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q9095.cpp">
@@ -1295,6 +1301,48 @@
     </ClCompile>
     <ClCompile Include="BOJ10053_clean2.cpp">
       <Filter>소스 파일\SKKU_Univ</Filter>
+    </ClCompile>
+    <ClCompile Include="200312A.cpp">
+      <Filter>소스 파일\BOJ\Solved\코포\2020.03.12</Filter>
+    </ClCompile>
+    <ClCompile Include="200312B.cpp">
+      <Filter>소스 파일\BOJ\Solved\코포\2020.03.12</Filter>
+    </ClCompile>
+    <ClCompile Include="200312C.cpp">
+      <Filter>소스 파일\BOJ\Solved\코포\2020.03.12</Filter>
+    </ClCompile>
+    <ClCompile Include="200312E.cpp">
+      <Filter>소스 파일\BOJ\Solved\코포\2020.03.12</Filter>
+    </ClCompile>
+    <ClCompile Include="200312D.cpp">
+      <Filter>소스 파일\BOJ\Solved\코포\2020.03.12</Filter>
+    </ClCompile>
+    <ClCompile Include="200312F.cpp">
+      <Filter>소스 파일\BOJ\Solved\코포\2020.03.12</Filter>
+    </ClCompile>
+    <ClCompile Include="200312D_ans.cpp">
+      <Filter>소스 파일\BOJ\Solved\코포\2020.03.12</Filter>
+    </ClCompile>
+    <ClCompile Include="SWMaestro11Test2.cpp">
+      <Filter>소스 파일\BOJ\Solved\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="SWMaestro11Test.cpp">
+      <Filter>소스 파일\BOJ\Solved\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="SWMAESTRO11_1.cpp">
+      <Filter>소스 파일\BOJ\Solved\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="SWMAESTRO11_2.cpp">
+      <Filter>소스 파일\BOJ\Solved\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="SWMAESTRO11_3.cpp">
+      <Filter>소스 파일\BOJ\Solved\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="SWMAESTRO11_3_ZINC.cpp">
+      <Filter>소스 파일\BOJ\Solved\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="0314HW1.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

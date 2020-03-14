@@ -18,8 +18,6 @@ int atoi(char a) {
 }
 
 int DP(int cur, int ed, bool isFirst) {//cur에서 ed로 가기 위해 필요한 최소비용 출력
-	if (cur<1 || cur>N || ed<1 || ed>N)//범위초과면 볼 필요도 없다
-		return -10000000;
 	if (done[cur][ed])
 		return memo[cur][ed];
 
@@ -70,11 +68,9 @@ int DP(int cur, int ed, bool isFirst) {//cur에서 ed로 가기 위해 필요한 최소비용 
 	}
 	else {
 		if (mincost == INTINF) {
-			//memo[cur][ed] = -1;
 			return -1;
 		}
 		else {
-			//memo[cur][ed] = mincost;
 			return mincost;
 		}
 	}
@@ -86,7 +82,6 @@ int main() {
 
 	cin >> N;
 	int num;
-	//memset(memo, 0, sizeof(memo));
 	for (int i = 1; i <= N; i++) {
 		cin >> num;
 		while (num--) {
@@ -99,13 +94,7 @@ int main() {
 	for (int r = 1; r <= N; r++) {
 		for (int c = 1; c <= N; c++) {
 			memset(visited, false, sizeof(visited));
-			DP(r, c, true);
-			//cout << endl;
-		}
-	}
-	for (int r = 1; r <= N; r++) {
-		for (int c = 1; c <= N; c++) {
-			cout << memo[r][c] << ' ';
+			cout << DP(r, c, true) << ' ';
 		}
 		cout << endl;
 	}
