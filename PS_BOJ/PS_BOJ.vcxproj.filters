@@ -172,6 +172,18 @@
     <Filter Include="소스 파일\BOJ\Solved\기타">
       <UniqueIdentifier>{2daa56fd-362d-4229-afe8-fad25cb3ceee}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ToyProject">
+      <UniqueIdentifier>{94691070-2db6-4e00-bc29-5cd54313e955}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\SKKU_Univ\문해방">
+      <UniqueIdentifier>{f7a5b8c3-0344-425f-8d53-c39c58a7de0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\SKKU_Univ\시소실1">
+      <UniqueIdentifier>{858d71bd-b747-4b5e-9a8b-e2f928a1b4d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\SKKU_Univ\시프">
+      <UniqueIdentifier>{0c24b491-96cb-4a38-bd4a-8da45812fab2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q9095.cpp">
@@ -1284,24 +1296,6 @@
     <ClCompile Include="BOJ4195.cpp">
       <Filter>소스 파일\BOJ\Solved\kks227_blog\유니온파인드</Filter>
     </ClCompile>
-    <ClCompile Include="PC33.cpp">
-      <Filter>소스 파일\SKKU_Univ</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ4388_ans.cpp">
-      <Filter>소스 파일\SKKU_Univ</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ10053.cpp">
-      <Filter>소스 파일\SKKU_Univ</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ10053_2.cpp">
-      <Filter>소스 파일\SKKU_Univ</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ10053_3.cpp">
-      <Filter>소스 파일\SKKU_Univ</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ10053_clean2.cpp">
-      <Filter>소스 파일\SKKU_Univ</Filter>
-    </ClCompile>
     <ClCompile Include="200312A.cpp">
       <Filter>소스 파일\BOJ\Solved\코포\2020.03.12</Filter>
     </ClCompile>
@@ -1341,8 +1335,65 @@
     <ClCompile Include="SWMAESTRO11_3_ZINC.cpp">
       <Filter>소스 파일\BOJ\Solved\기타</Filter>
     </ClCompile>
+    <ClCompile Include="SiSoSil2-2_ans.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방</Filter>
+    </ClCompile>
+    <ClCompile Include="PC33.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방</Filter>
+    </ClCompile>
+    <ClCompile Include="SiSoSil2-1.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방</Filter>
+    </ClCompile>
+    <ClCompile Include="SiSoSil2-2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방</Filter>
+    </ClCompile>
+    <ClCompile Include="SiSoSil2-2_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ4388_ans.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10053.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10053_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10053_3.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10053_clean2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방</Filter>
+    </ClCompile>
+    <ClCompile Include="Moss Decryptor.cpp">
+      <Filter>소스 파일\ToyProject</Filter>
+    </ClCompile>
+    <ClCompile Include="Moss Encryptor.cpp">
+      <Filter>소스 파일\ToyProject</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ12902.cpp">
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\기타BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ12902_3.cpp">
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\기타BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ12902_2.cpp">
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\기타BOJ</Filter>
+    </ClCompile>
     <ClCompile Include="0314HW1.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
+      <Filter>소스 파일\SKKU_Univ\시소실1</Filter>
+    </ClCompile>
+    <ClCompile Include="SiSoSil1_2W_1HW.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1</Filter>
+    </ClCompile>
+    <ClCompile Include="SiSoSil1_2W_2HW.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1</Filter>
+    </ClCompile>
+    <ClCompile Include="SiSoSil1_2W_2HW_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1</Filter>
+    </ClCompile>
+    <ClCompile Include="SiSoSil1_2W_3HW.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
