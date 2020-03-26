@@ -1,1 +1,4 @@
-15
+2 ababab
+3 eaababacD
+3 aaabbbAAABbbaaa
+2 ababa
