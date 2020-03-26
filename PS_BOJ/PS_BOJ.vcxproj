@@ -937,6 +937,7 @@
     <ClCompile Include="SiSoSil1_2W_3HW.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="SiSoSil1_3W_1HW.cpp" />
     <ClCompile Include="SiSoSil2-1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
