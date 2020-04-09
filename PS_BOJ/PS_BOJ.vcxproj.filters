@@ -199,6 +199,15 @@
     <Filter Include="소스 파일\SKKU_Univ\시소실1\3W">
       <UniqueIdentifier>{b2710317-542a-4107-9178-61f38ab39582}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\코포\2020.03.26">
+      <UniqueIdentifier>{62ede2f2-3ff7-4629-ad02-ccf066971868}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\SKKU_Univ\문해방\4W">
+      <UniqueIdentifier>{049d05a0-df6d-40a2-a71c-3b8b064b8b37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\SKKU_Univ\문해방\5W">
+      <UniqueIdentifier>{83cee876-3ac0-4221-a5d1-1cb6006672b9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q9095.cpp">
@@ -1424,6 +1433,48 @@
     </ClCompile>
     <ClCompile Include="SiSoSil1_3W_1HW.cpp">
       <Filter>소스 파일\SKKU_Univ\시소실1\3W</Filter>
+    </ClCompile>
+    <ClCompile Include="200326A.cpp">
+      <Filter>소스 파일\BOJ\Solved\코포\2020.03.26</Filter>
+    </ClCompile>
+    <ClCompile Include="200326B.cpp">
+      <Filter>소스 파일\BOJ\Solved\코포\2020.03.26</Filter>
+    </ClCompile>
+    <ClCompile Include="200326C.cpp">
+      <Filter>소스 파일\BOJ\Solved\코포\2020.03.26</Filter>
+    </ClCompile>
+    <ClCompile Include="200326B_2.cpp">
+      <Filter>소스 파일\BOJ\Solved\코포\2020.03.26</Filter>
+    </ClCompile>
+    <ClCompile Include="200326D.cpp">
+      <Filter>소스 파일\BOJ\Solved\코포\2020.03.26</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10814.cpp">
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\기타BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2437.cpp">
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\기타BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1182_2.cpp">
+      <Filter>소스 파일\BOJ\Solved\알고리즘양학\기타BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ7989.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_4W_1.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\4W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_4W_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\4W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_5W_1.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\5W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_5W_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\5W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_5W_1_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\5W</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
