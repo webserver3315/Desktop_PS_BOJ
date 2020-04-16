@@ -208,6 +208,9 @@
     <Filter Include="소스 파일\SKKU_Univ\문해방\5W">
       <UniqueIdentifier>{83cee876-3ac0-4221-a5d1-1cb6006672b9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\SKKU_Univ\문해방\6W">
+      <UniqueIdentifier>{e408e112-870b-4521-b353-cd795d7b2f3f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q9095.cpp">
@@ -1475,6 +1478,21 @@
     </ClCompile>
     <ClCompile Include="MunHaeBang_5W_1_2.cpp">
       <Filter>소스 파일\SKKU_Univ\문해방\5W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_MakeTestcase.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\5W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_6W_1.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\6W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_6W_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\6W</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ7562.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1915.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
