@@ -211,6 +211,9 @@
     <Filter Include="소스 파일\SKKU_Univ\문해방\6W">
       <UniqueIdentifier>{e408e112-870b-4521-b353-cd795d7b2f3f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\SKKU_Univ\시소실1\Test1">
+      <UniqueIdentifier>{fdb13b08-769a-4b5f-bee0-50f6a86621fb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q9095.cpp">
@@ -1494,6 +1497,12 @@
     <ClCompile Include="BOJ1915.cpp">
       <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
+    <ClCompile Include="SiSoSilTest2.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\Test1</Filter>
+    </ClCompile>
+    <ClCompile Include="SiSoSilTest3.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\Test1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -1510,6 +1519,9 @@
     </Text>
     <Text Include="PS_Format.cpp">
       <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="SiSoSilTestInput.txt">
+      <Filter>소스 파일\SKKU_Univ\시소실1\Test1</Filter>
     </Text>
   </ItemGroup>
 </Project>
