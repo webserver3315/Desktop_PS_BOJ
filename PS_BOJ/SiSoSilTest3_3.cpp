@@ -74,11 +74,13 @@ void printAns() {
 			else printf("%d", ans[d]);
 		}
 		else {
-			if (!first) {
-				printf("+");
+			if (ans[d] == 1) {
+				if (!first) {
+					printf("+");
+				}
 			}
-			if (ans[d] != 1) {
-				printf("%d", ans[d]);
+			else {
+				printf("+%d", ans[d]);
 			}
 		}
 		printf("x");
@@ -98,17 +100,13 @@ int main() {
 	}
 
 	idx++;
-	if (slen == 2) {
-		printf("x\n");
-		return 0;
-	}
-	while (idx < slen - 1) {
+	while (idx < slen) {
 		CheckSet();
 	}
 
-	// for(int i=0;i<10;i++){
-	// 	printf("%d ½ÂÀÇ °è¼ö´Â %d\n",i,ans[i]);
-	// }
+	for (int i = 0; i < 10; i++) {
+		printf("%d ½ÂÀÇ °è¼ö´Â %d\n", i, ans[i]);
+	}
 
 	printAns();
 	return 0;

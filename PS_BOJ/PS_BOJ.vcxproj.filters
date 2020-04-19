@@ -1506,6 +1506,9 @@
     <ClCompile Include="SiSoSilTest3_2.cpp">
       <Filter>소스 파일\SKKU_Univ\시소실1\Test1</Filter>
     </ClCompile>
+    <ClCompile Include="SiSoSilTest3_3.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\Test1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
