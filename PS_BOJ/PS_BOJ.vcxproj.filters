@@ -1557,6 +1557,21 @@
     <ClCompile Include="MunHaeBang_8W_Exercise.cpp">
       <Filter>소스 파일\SKKU_Univ\문해방\8W</Filter>
     </ClCompile>
+    <ClCompile Include="MunHaeBang_8W_1.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\8W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_8W_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\8W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_8W_1_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\8W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_8W_2_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\8W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_8W_2_3.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\8W</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
