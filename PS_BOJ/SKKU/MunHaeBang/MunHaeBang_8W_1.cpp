@@ -16,7 +16,6 @@ void dfs(int start, int sum) {//넣는다 또는 안넣는다는 2가지의 선지가 있음. 전체
 		sum += vct[i];
 		dfs(i + 1, sum);
 		sum -= vct[i];
-		//dfs(i + 1, sum);
 	}
 }
 

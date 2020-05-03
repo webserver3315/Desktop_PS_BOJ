@@ -6,8 +6,8 @@ int R = 50;
 int C = 50;
 
 int main() {
-	for (int r = 0; r < R; r++) {
-		cout << 0 << ' ';
+	for (int r = 1; r < 32; r++) {
+		cout << 100 << " " << 3 << " " << r << endl;
 	}
 	return 0;
 }

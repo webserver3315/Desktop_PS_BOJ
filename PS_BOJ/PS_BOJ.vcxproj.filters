@@ -223,6 +223,9 @@
     <Filter Include="소스 파일\SKKU_Univ\문해방\8W">
       <UniqueIdentifier>{649c5d6d-8371-4646-8613-252ff3dcc3d5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\SKKU_Univ\시소실1\Test2">
+      <UniqueIdentifier>{db5dace8-f866-4dfa-853e-adecb7d4fea3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q9095.cpp">
@@ -1107,9 +1110,6 @@
     <ClCompile Include="Tree.cpp">
       <Filter>리소스 파일\SanKouYou</Filter>
     </ClCompile>
-    <ClCompile Include="TestCaseMaker.cpp">
-      <Filter>리소스 파일\SanKouYou</Filter>
-    </ClCompile>
     <ClCompile Include="PairSortTest.cpp">
       <Filter>리소스 파일\SanKouYou</Filter>
     </ClCompile>
@@ -1571,6 +1571,21 @@
     </ClCompile>
     <ClCompile Include="MunHaeBang_8W_2_3.cpp">
       <Filter>소스 파일\SKKU_Univ\문해방\8W</Filter>
+    </ClCompile>
+    <ClCompile Include="SiSoSilTest2_1.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\Test2</Filter>
+    </ClCompile>
+    <ClCompile Include="SiSoSilTest2_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\Test2</Filter>
+    </ClCompile>
+    <ClCompile Include="SiSoSilTest2_3.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\Test2</Filter>
+    </ClCompile>
+    <ClCompile Include="TestCaseMaker.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\Test2</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1158.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\Test2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
