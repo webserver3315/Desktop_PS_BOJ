@@ -226,6 +226,12 @@
     <Filter Include="소스 파일\SKKU_Univ\시소실1\Test2">
       <UniqueIdentifier>{db5dace8-f866-4dfa-853e-adecb7d4fea3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\SKKU_Univ\시소실1\9W">
+      <UniqueIdentifier>{abdcb883-931d-4084-90e7-e2f08debbd13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\SKKU_Univ\문해방\9W">
+      <UniqueIdentifier>{02e43866-0501-4c9d-b681-07bfadeec9b6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q9095.cpp">
@@ -1581,11 +1587,35 @@
     <ClCompile Include="SiSoSilTest2_3.cpp">
       <Filter>소스 파일\SKKU_Univ\시소실1\Test2</Filter>
     </ClCompile>
-    <ClCompile Include="TestCaseMaker.cpp">
-      <Filter>소스 파일\SKKU_Univ\시소실1\Test2</Filter>
-    </ClCompile>
     <ClCompile Include="BOJ1158.cpp">
-      <Filter>소스 파일\SKKU_Univ\시소실1\Test2</Filter>
+      <Filter>소스 파일\BOJ\Solved\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ17836.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ17829.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ17830.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ17827.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SiSoSil_9W_1.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\9W</Filter>
+    </ClCompile>
+    <ClCompile Include="TestCaseMaker.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\9W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_9W_1.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\9W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_9W_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\9W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_9W_1_Test.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\9W</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
