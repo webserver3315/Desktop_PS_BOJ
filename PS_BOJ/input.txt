@@ -1,5 +1,18 @@
-3
-3
-0 1
-1 2
-2 0
+17
+age
+ale
+ate
+bag
+big
+cat
+date
+dig
+dog
+fig
+fin
+fine
+fog
+line
+log
+swine
+wine

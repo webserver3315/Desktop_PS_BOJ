@@ -1617,6 +1617,9 @@
     <ClCompile Include="MunHaeBang_9W_1_Test.cpp">
       <Filter>소스 파일\SKKU_Univ\문해방\9W</Filter>
     </ClCompile>
+    <ClCompile Include="SWMAESTRO11_2_3_Zinc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

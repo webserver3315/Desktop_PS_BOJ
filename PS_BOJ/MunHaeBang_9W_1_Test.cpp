@@ -16,21 +16,17 @@ int visited[20002];//1=청색 -1=적색 0=미방문
 bool bfs() {
 	dq.push_back(1); visited[1] = 1;
 	while (!dq.empty()) {
-		int cnt = dq.size();
-		for (int i = 0; i < cnt; i++) {
-			int now = dq.front(); dq.pop_front();
-			int nowcolor = visited[now];
-			for (auto next : adj[now]) {
-				if (visited[next] == 0) {
-					visited[next] = nowcolor * -1;
-					dq.push_back(next);
+		int now = dq.front(); dq.pop_front();
+		for (auto next : adj[now]) {
+			if (visited[next] == 0) {
+				visited[next] = (3 - visited[now]);
+				dq.push_back(next);
+			}
+			else {
+				if (visited[next] == visited[now]) {//안칠해져있으면서 다른 색으로 선점되었다면
+					return false;
 				}
-				else {
-					if (visited[next] == nowcolor) {//안칠해져있으면서 다른 색으로 선점되었다면
-						return false;
-					}
-					else continue;
-				}
+				else continue;
 			}
 		}
 	}

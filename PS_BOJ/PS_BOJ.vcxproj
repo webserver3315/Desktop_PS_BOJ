@@ -1125,6 +1125,7 @@
     <ClCompile Include="SWMAESTRO11_2_3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">TRUE</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="SWMAESTRO11_2_3_Zinc.cpp" />
     <ClCompile Include="SWMAESTRO11_3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">TRUE</ExcludedFromBuild>
     </ClCompile>
