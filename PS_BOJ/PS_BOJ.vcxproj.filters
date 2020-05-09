@@ -232,6 +232,9 @@
     <Filter Include="소스 파일\SKKU_Univ\문해방\9W">
       <UniqueIdentifier>{02e43866-0501-4c9d-b681-07bfadeec9b6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\코포\2020.05.09">
+      <UniqueIdentifier>{5c66a709-72b5-4f83-a2d7-40bea8c79897}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q9095.cpp">
@@ -1509,9 +1512,6 @@
     <ClCompile Include="BOJ7562.cpp">
       <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ1915.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
-    </ClCompile>
     <ClCompile Include="SiSoSilTest2.cpp">
       <Filter>소스 파일\SKKU_Univ\시소실1\Test1</Filter>
     </ClCompile>
@@ -1618,7 +1618,25 @@
       <Filter>소스 파일\SKKU_Univ\문해방\9W</Filter>
     </ClCompile>
     <ClCompile Include="SWMAESTRO11_2_3_Zinc.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\BOJ\Solved\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="200509A.cpp">
+      <Filter>소스 파일\BOJ\Solved\코포\2020.05.09</Filter>
+    </ClCompile>
+    <ClCompile Include="200509C.cpp">
+      <Filter>소스 파일\BOJ\Solved\코포\2020.05.09</Filter>
+    </ClCompile>
+    <ClCompile Include="200509D.cpp">
+      <Filter>소스 파일\BOJ\Solved\코포\2020.05.09</Filter>
+    </ClCompile>
+    <ClCompile Include="200509B.cpp">
+      <Filter>소스 파일\BOJ\Solved\코포\2020.05.09</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1915.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="200509E.cpp">
+      <Filter>소스 파일\BOJ\Solved\코포\2020.05.09</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

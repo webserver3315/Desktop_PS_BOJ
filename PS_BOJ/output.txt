@@ -1,1 +1,4 @@
-8
+compter 와 computer 는 편집거리 0 또는 1
+computer 와 compute 는 편집거리 0 또는 1
+computer 와 cmputer 는 편집거리 0 또는 1
+cmputer 와 cputer 는 편집거리 0 또는 1

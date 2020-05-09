@@ -36,9 +36,6 @@ signed main() {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL); cout.tie(NULL);
 
-	/*memset(minx, 100000001, sizeof(minx));
-	memset(miny, 100000001, sizeof(miny));*/
-
 	for (int i = 0; i < 300001; i++) {
 		minx[i] = 100000001;
 		miny[i] = 100000001;
@@ -78,7 +75,6 @@ signed main() {
 		if (done[par]) continue;
 		done[par] = true;
 		if (maxval < getlength(par)) {
-			//cout << i << " 는 i, " << par << "에서 업데이트 발생" << endl;
 			maxval = getlength(par);
 		}
 	}
