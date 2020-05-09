@@ -1,6 +1,13 @@
-5
-compter
+12
 computer
 compute
-cmputer
-cputer
+compter
+cmpute
+copute
+omputer
+omuter
+muter
+puter
+computers
+omputers
+ters
