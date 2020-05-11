@@ -1638,6 +1638,24 @@
     <ClCompile Include="200509E.cpp">
       <Filter>소스 파일\BOJ\Solved\코포\2020.05.09</Filter>
     </ClCompile>
+    <ClCompile Include="MunHaeBang_9W_2_Zinc.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\9W</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ16401.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ16401_2.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ16395.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ16397.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="SiSoSilTest2_1_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\Test2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

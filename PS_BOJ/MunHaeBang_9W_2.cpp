@@ -56,13 +56,11 @@ bool isKun(const string& a, const string& b) {//0 또는 1 최단편집거리면 true, 아
 	}
 }
 
-int dfs(int cur, int d) {
-	int maxjmp = 1;
-	for (int next : adj[cur]) {
-		int nowjmp = dfs(next, d + 1);
-		if (maxjmp < nowjmp) maxjmp = nowjmp;
-	}
-	return maxjmp;
+int ans = 0;
+void dfs(int cur, int d) {
+	ans = max(ans, d);
+	for (int next : adj[cur])
+		dfs(next, d + 1);
 }
 
 signed main() {
@@ -77,22 +75,22 @@ signed main() {
 		for (int j = 0; j < i; j++) {//연결리스트 제조
 			if (isKun(vct[i], vct[j])) {
 				adj[j].push_back(i); indegree[i]++;
-				cout << " 내꺼 함수: " << vct[j] << " 와 " << vct[i] << " 는 편집거리 0 또는 1" << endl;
+				//cout << " 내꺼 함수: " << vct[j] << " 와 " << vct[i] << " 는 편집거리 0 또는 1" << endl;
 			}
 			/*if (connect(vct[i], vct[j])) {
 				adj[j].push_back(i);
 				cout << " ㅈㄱ 함수: " << vct[j] << " 와 " << vct[i] << " 는 편집거리 0 또는 1" << endl;
 			}*/
 		}
-		for (int i = 0; i < n; i++) {
-			if (indegree[i]) continue;
-			else {
-				cout<<dfs
-			}
-		}
-
-
 	}
+
+	for (int i = 0; i < n; i++) {
+		if (indegree[i]) continue;
+		else {
+			dfs(i, 1);
+		}
+	}
+	cout << ans << endl;
 
 	return 0;
 }

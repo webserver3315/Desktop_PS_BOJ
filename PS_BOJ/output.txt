@@ -1,24 +1,5 @@
- 내꺼 함수: computer 와 compute 는 편집거리 0 또는 1
- ㅈㄱ 함수: computer 와 compute 는 편집거리 0 또는 1
- 내꺼 함수: computer 와 compter 는 편집거리 0 또는 1
- ㅈㄱ 함수: computer 와 compter 는 편집거리 0 또는 1
- 내꺼 함수: compute 와 cmpute 는 편집거리 0 또는 1
- ㅈㄱ 함수: compute 와 cmpute 는 편집거리 0 또는 1
- 내꺼 함수: compute 와 copute 는 편집거리 0 또는 1
- ㅈㄱ 함수: compute 와 copute 는 편집거리 0 또는 1
- 내꺼 함수: cmpute 와 copute 는 편집거리 0 또는 1
- ㅈㄱ 함수: cmpute 와 copute 는 편집거리 0 또는 1
- 내꺼 함수: computer 와 omputer 는 편집거리 0 또는 1
- ㅈㄱ 함수: computer 와 omputer 는 편집거리 0 또는 1
- 내꺼 함수: omputer 와 omuter 는 편집거리 0 또는 1
- ㅈㄱ 함수: omputer 와 omuter 는 편집거리 0 또는 1
- 내꺼 함수: omuter 와 muter 는 편집거리 0 또는 1
- ㅈㄱ 함수: omuter 와 muter 는 편집거리 0 또는 1
- 내꺼 함수: muter 와 puter 는 편집거리 0 또는 1
- ㅈㄱ 함수: muter 와 puter 는 편집거리 0 또는 1
- 내꺼 함수: computer 와 computers 는 편집거리 0 또는 1
- ㅈㄱ 함수: computer 와 computers 는 편집거리 0 또는 1
- 내꺼 함수: omputer 와 omputers 는 편집거리 0 또는 1
- ㅈㄱ 함수: omputer 와 omputers 는 편집거리 0 또는 1
- 내꺼 함수: computers 와 omputers 는 편집거리 0 또는 1
- ㅈㄱ 함수: computers 와 omputers 는 편집거리 0 또는 1
+  17   24    1    8   15 
+  23    5    7   14   16 
+   4    6   13   20   22 
+  10   12   19   21    3 
+  11   18   25    2    9 
