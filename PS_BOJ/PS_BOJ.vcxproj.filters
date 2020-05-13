@@ -1656,6 +1656,15 @@
     <ClCompile Include="SiSoSilTest2_1_2.cpp">
       <Filter>소스 파일\SKKU_Univ\시소실1\Test2</Filter>
     </ClCompile>
+    <ClCompile Include="BOJ1922.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1922_2.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1753.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
