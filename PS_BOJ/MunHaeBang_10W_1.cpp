@@ -1,17 +1,11 @@
 #include <bits/stdc++.h>
-#define pii pair<int,int>
+#define int long long
+#define pii pair<long long, long long>
 #define mp(a,b) make_pair(a,b)
 #define ff first
 #define ss second
 #define endl '\n'
 using namespace std;
-
-/*
-네트워크 연결 문제
-이번엔 프림으로 풀어보자.
-프림은 밀집그래프에서 유용한데, 밀집그래프 자체가 적긴 하니...
-https://huiung.tistory.com/76 참조
-*/
 
 int N, M;
 bool visited[1001];
@@ -35,7 +29,7 @@ int prim() {
 	return ans;
 }
 
-int main() {
+signed main() {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL); cout.tie(NULL);
 

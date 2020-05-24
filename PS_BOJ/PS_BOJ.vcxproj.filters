@@ -235,6 +235,15 @@
     <Filter Include="소스 파일\BOJ\Solved\코포\2020.05.09">
       <UniqueIdentifier>{5c66a709-72b5-4f83-a2d7-40bea8c79897}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\SKKU_Univ\문해방\10W">
+      <UniqueIdentifier>{102d7fd6-7b18-420d-88fb-50aa25c10df1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\SKKU_Univ\시소실1\10W">
+      <UniqueIdentifier>{454c0acb-6a68-462f-9d0d-864495c3f18e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\SKKU_Univ\문해방\11W">
+      <UniqueIdentifier>{1d2431b1-60f8-442c-b8f4-25c0d83cd79c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q9095.cpp">
@@ -1482,9 +1491,6 @@
     <ClCompile Include="BOJ1182_2.cpp">
       <Filter>소스 파일\BOJ\Solved\알고리즘양학\기타BOJ</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ7989.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
-    </ClCompile>
     <ClCompile Include="MunHaeBang_4W_1.cpp">
       <Filter>소스 파일\SKKU_Univ\문해방\4W</Filter>
     </ClCompile>
@@ -1508,9 +1514,6 @@
     </ClCompile>
     <ClCompile Include="MunHaeBang_6W_2.cpp">
       <Filter>소스 파일\SKKU_Univ\문해방\6W</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ7562.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
     <ClCompile Include="SiSoSilTest2.cpp">
       <Filter>소스 파일\SKKU_Univ\시소실1\Test1</Filter>
@@ -1590,9 +1593,6 @@
     <ClCompile Include="BOJ1158.cpp">
       <Filter>소스 파일\BOJ\Solved\기타</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ17836.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
-    </ClCompile>
     <ClCompile Include="BOJ17829.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -1603,9 +1603,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="SiSoSil_9W_1.cpp">
-      <Filter>소스 파일\SKKU_Univ\시소실1\9W</Filter>
-    </ClCompile>
-    <ClCompile Include="TestCaseMaker.cpp">
       <Filter>소스 파일\SKKU_Univ\시소실1\9W</Filter>
     </ClCompile>
     <ClCompile Include="MunHaeBang_9W_1.cpp">
@@ -1632,38 +1629,92 @@
     <ClCompile Include="200509B.cpp">
       <Filter>소스 파일\BOJ\Solved\코포\2020.05.09</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ1915.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
-    </ClCompile>
     <ClCompile Include="200509E.cpp">
       <Filter>소스 파일\BOJ\Solved\코포\2020.05.09</Filter>
     </ClCompile>
     <ClCompile Include="MunHaeBang_9W_2_Zinc.cpp">
       <Filter>소스 파일\SKKU_Univ\문해방\9W</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ16401.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ16401_2.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ16395.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ16397.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
-    </ClCompile>
     <ClCompile Include="SiSoSilTest2_1_2.cpp">
       <Filter>소스 파일\SKKU_Univ\시소실1\Test2</Filter>
     </ClCompile>
+    <ClCompile Include="BOJ1753.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방</Filter>
+    </ClCompile>
     <ClCompile Include="BOJ1922.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
+      <Filter>소스 파일\SKKU_Univ\문해방</Filter>
     </ClCompile>
     <ClCompile Include="BOJ1922_2.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
+      <Filter>소스 파일\SKKU_Univ\문해방</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ1753.cpp">
-      <Filter>소스 파일\BOJ\Solving</Filter>
+    <ClCompile Include="BOJ1915.cpp">
+      <Filter>소스 파일\BOJ\Solved\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ7562.cpp">
+      <Filter>소스 파일\BOJ\Solved\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ7989.cpp">
+      <Filter>소스 파일\BOJ\Unsolved</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ16397.cpp">
+      <Filter>소스 파일\BOJ\Solved\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ16395.cpp">
+      <Filter>소스 파일\BOJ\Solved\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_10W_1.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\10W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_10W_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\10W</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ17836.cpp">
+      <Filter>소스 파일\BOJ\Solved\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ16401.cpp">
+      <Filter>소스 파일\BOJ\Solved\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ16401_2.cpp">
+      <Filter>소스 파일\BOJ\Solved\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1916.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방</Filter>
+    </ClCompile>
+    <ClCompile Include="TestCaseMaker.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\10W</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2178_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\10W</Filter>
+    </ClCompile>
+    <ClCompile Include="bst_deletion.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\10W</Filter>
+    </ClCompile>
+    <ClCompile Include="bst_insertion.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\10W</Filter>
+    </ClCompile>
+    <ClCompile Include="printTree.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\10W</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\10W</Filter>
+    </ClCompile>
+    <ClCompile Include="SiSoSil_10W_ex2.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\10W</Filter>
+    </ClCompile>
+    <ClCompile Include="SiSoSil_10W_exercise.c">
+      <Filter>소스 파일\SKKU_Univ\시소실1\10W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_11W_1.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\11W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_11W_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\11W</Filter>
+    </ClCompile>
+    <ClCompile Include="MuhHaeBang_11W_1_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\11W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_11W_2_Zinc.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\11W</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -1685,5 +1736,10 @@
     <Text Include="SiSoSilTestInput.txt">
       <Filter>소스 파일\SKKU_Univ\시소실1\Test1</Filter>
     </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SiPu_Assignment2_2_0.s">
+      <Filter>소스 파일\SKKU_Univ\시프</Filter>
+    </None>
   </ItemGroup>
 </Project>

@@ -28,42 +28,37 @@ void Dik() {//Dijkstra
 	fill(dist, dist + V+1, mymax);
 	dist[K] = 0;
 	pq.push(mp(0, K));
-	//while (!pq.empty()) {
-	//	pii cur = pq.top(); pq.pop();
-	//	if (visit[cur.ss]) continue;
-	//	visit[cur.ss] = true;
-	//	//cout << cur.ss << "방문" << endl;
-	//	for (auto& next : adj[cur.ss]) {
-	//		if (dist[next.ss] > dist[cur.ss] + next.ff) {
-	//			//cout << dist[next.ss] << " 을 " << dist[cur.ss] + next.ff << "로 업데이트" << endl;
-	//			dist[next.ss] = dist[cur.ss] + next.ff;
-	//			//visit[next.ss] = false;
-	//			//myprev[next.ss] = cur.ss;
-	//			//pq.push(next);//이게 잘못됨. next가 아니라 업데이트된 next로 넣어줘야함.
-	//			pq.push(mp(dist[next.ss], next.ss));
-	//		}
-	//	}
-	//}
-	while (!pq.empty()) { // PQ가 비면 종료
-		int curr;
-		do {
-			curr = pq.top().second;
-			pq.pop();
-		} while (!pq.empty() && visit[curr]); // curr가 방문한 정점이면 무시
-		// 더 이상 방문할 수 있는 정점이 없으면 종료
-		if (visit[curr]) break;
-
-		visit[curr] = true; // 방문
-		for (auto& p : adj[curr]) {
-			int next = p.second, d = p.first;
-			// 거리가 갱신될 경우 PQ에 새로 넣음
-			if (dist[next] > dist[curr] + d) {
-				//cout << dist[next] << " 을 " << dist[curr] + d << "로 업데이트" << endl;
-				dist[next] = dist[curr] + d;
-				pq.push(mp(dist[next], next));
+	while (!pq.empty()) {
+		pii cur = pq.top(); pq.pop();
+		if (visit[cur.ss]) continue;
+		visit[cur.ss] = true;
+		for (auto& next : adj[cur.ss]) {
+			if (dist[next.ss] > dist[cur.ss] + next.ff) {
+				dist[next.ss] = dist[cur.ss] + next.ff;
+				pq.push(mp(dist[next.ss], next.ss));
 			}
 		}
 	}
+	//while (!pq.empty()) { // PQ가 비면 종료
+	//	int curr;
+	//	do {
+	//		curr = pq.top().second;
+	//		pq.pop();
+	//	} while (!pq.empty() && visit[curr]); // curr가 방문한 정점이면 무시
+	//	// 더 이상 방문할 수 있는 정점이 없으면 종료
+	//	if (visit[curr]) break;
+
+	//	visit[curr] = true; // 방문
+	//	for (auto& p : adj[curr]) {
+	//		int next = p.second, d = p.first;
+	//		// 거리가 갱신될 경우 PQ에 새로 넣음
+	//		if (dist[next] > dist[curr] + d) {
+	//			//cout << dist[next] << " 을 " << dist[curr] + d << "로 업데이트" << endl;
+	//			dist[next] = dist[curr] + d;
+	//			pq.push(mp(dist[next], next));
+	//		}
+	//	}
+	//}
 
 	return;
 }
