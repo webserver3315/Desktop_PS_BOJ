@@ -1,7 +1,8 @@
-9
-3 2 1 7 8 9 5 4 6
-7
-
-9
-3 2 1 7 8 5 4 6
-10
+if (Aphase % 2 == 0) {//짝수면, x==1부터
+			int Ax = t - (Aphase - 1) * (Aphase - 1); int Ay = Aphase + 1 - t;
+			cout << Ax << " " << Ay << endl;
+		}
+		else {//홀수면, y==1부터
+			int Ax = Aphase + 1 - t; int Ay = t - (Aphase - 1) * (Aphase - 1);
+			cout << Ax << " " << Ay << endl;
+		}

@@ -247,6 +247,12 @@
     <Filter Include="소스 파일\SKKU_Univ\시소실1\Final">
       <UniqueIdentifier>{fc42e88b-3330-4f9e-bab0-903c1b96d055}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\SKKU_Univ\문해방\12W">
+      <UniqueIdentifier>{408f3524-df38-407e-a2d4-b317a40c85e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\SKKU_Univ\시소실1\12W">
+      <UniqueIdentifier>{42da6060-13d7-4a3c-a6e0-e84af39eb826}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q9095.cpp">
@@ -1721,6 +1727,18 @@
     </ClCompile>
     <ClCompile Include="SiSoSil1_Final_1.cpp">
       <Filter>소스 파일\SKKU_Univ\시소실1\Final</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_12W_1.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\12W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_12W_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\12W</Filter>
+    </ClCompile>
+    <ClCompile Include="SiSoSil_12W_HW1.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\12W</Filter>
+    </ClCompile>
+    <ClCompile Include="CircularQueue_Ans.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\12W</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
