@@ -253,6 +253,12 @@
     <Filter Include="소스 파일\SKKU_Univ\시소실1\12W">
       <UniqueIdentifier>{42da6060-13d7-4a3c-a6e0-e84af39eb826}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\SKKU_Univ\문해방\13W">
+      <UniqueIdentifier>{b46ffc23-98c9-452c-9425-199018a1adab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\SKKU_Univ\시소실1\13W">
+      <UniqueIdentifier>{e5ae5348-54e2-4249-a555-aeeb117e30b1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q9095.cpp">
@@ -1689,9 +1695,6 @@
     <ClCompile Include="BOJ1916.cpp">
       <Filter>소스 파일\SKKU_Univ\문해방</Filter>
     </ClCompile>
-    <ClCompile Include="TestCaseMaker.cpp">
-      <Filter>소스 파일\SKKU_Univ\문해방\10W</Filter>
-    </ClCompile>
     <ClCompile Include="BOJ2178_2.cpp">
       <Filter>소스 파일\SKKU_Univ\문해방\10W</Filter>
     </ClCompile>
@@ -1739,6 +1742,39 @@
     </ClCompile>
     <ClCompile Include="CircularQueue_Ans.cpp">
       <Filter>소스 파일\SKKU_Univ\시소실1\12W</Filter>
+    </ClCompile>
+    <ClCompile Include="Func4.cpp">
+      <Filter>소스 파일\SKKU_Univ\시프</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2162.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2166.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2162_2.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_13W_1.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\13W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_13W_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\13W</Filter>
+    </ClCompile>
+    <ClCompile Include="MunHaeBang_13W_2_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\13W</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ17386.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ17386_ans.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="TestCaseMaker.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SiSoSil_13W_HW1.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\13W</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

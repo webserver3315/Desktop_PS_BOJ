@@ -2,8 +2,7 @@
 #define endl '\n'
 using namespace std;
 
-int R = 50;
-int C = 50;
+
 
 int main() {
 	cout << "1000 1000" << endl;
