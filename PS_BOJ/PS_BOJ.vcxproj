@@ -1227,7 +1227,13 @@
     <ClCompile Include="SiSoSil_12W_HW1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">TRUE</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="SiSoSil_13W_HW1.cpp" />
+    <ClCompile Include="SiSoSil_13W_HW1.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="SiSoSil_13W_HW1_cppver.cpp" />
+    <ClCompile Include="SiSosil_13W_HW1_Cver.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="SiSoSil_9W_1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">TRUE</ExcludedFromBuild>
     </ClCompile>
