@@ -9,7 +9,7 @@ typedef struct myCard {
 }Card;
 
 typedef struct myHuman {
-	vector<int> deck;
+	vector<int> hold;
 	int motteruCard;//현재 라운드에서 소유중인 카드수
 	int Score;
 	bool isDealer;//딜러여부
@@ -39,12 +39,12 @@ void PunPai() {//카드 초기 분배
 	for (int i = 0; i <= N; i++) {//각자에게 카드배분
 		if (nokoriCardCnt) {
 			int c1 = getCard();
-			player[i].deck.push_back(c1);
+			player[i].hold.push_back(c1);
 			player[i].motteruCard++;
 		}
 		if (nokoriCardCnt) {
 			int c2 = getCard();
-			player[i].deck.push_back(c2);
+			player[i].hold.push_back(c2);
 			player[i].motteruCard++;
 		}
 	}
@@ -53,9 +53,9 @@ void PunPai() {//카드 초기 분배
 int getCardPoint(const Human& h) {
 	int ret = 0;
 	int aceNum = 0;
-	for (int i = 0; i < h.deck.size(); i++) {
-		int cur = h.deck[i];
-		int pict = cur / 4; int num = cur % 14;
+	for (int i = 0; i < h.hold.size(); i++) {
+		int cur = h.hold[i];
+		int pict = cur / 4; int num = cur % 13;
 		if (num == 0) {
 			aceNum++;
 			ret++;
@@ -80,36 +80,39 @@ int getCardPoint(const Human& h) {
 
 string translate(int i) {
 	string ret;
-	if (i / 4 == 0) {
+	if (i / 13 == 0) {
 		ret += "Spade ";
 	}
-	else if (i / 4 == 1) {
+	else if (i / 13 == 1) {
 		ret += "Heart ";
 	}
-	else if (i / 4 == 2) {
+	else if (i / 13 == 2) {
 		ret += "Diamond ";
 	}
-	else if (i / 4 == 3) {
+	else if (i / 13 == 3) {
 		ret += "Clover ";
 	}
 	ret += to_string(i % 13);
 	cout << ret;
+	return ret;
 }
 
 void ShowCard() {
 	for (int i = 0; i <= N; i++) {
 		cout << i << " 번 플레이어의 패를 까보겠습니다~" << endl;
 		if (player[i].isDealer) {
-			cout << "[딜러특권: 첫째카드 Censored]" << endl;
-			for (int j = 1; j < player[i].deck.size(); j++) {
+			cout << "(딜러의 첫 카드는 뒤집어짐)" << endl;
+			for (int j = 1; j < player[i].hold.size(); j++) {
 				//cout << player[i].deck[j] << endl;
-				cout << translate(player[i].deck[j]) << endl;
+				string tmp = translate(player[i].hold[j]);
+				cout << tmp << endl;
+				//cout << translate(player[i].hold[j]) << endl;
 			}
 		}
 		else {
-			for (int j = 0; j < player[i].deck.size(); j++) {
+			for (int j = 0; j < player[i].hold.size(); j++) {
 				//cout << player[i].deck[j] << endl;
-				cout << translate(player[i].deck[j]) << endl;
+				cout << translate(player[i].hold[j]) << endl;
 			}
 		}
 	}
@@ -129,7 +132,7 @@ void DrawEveryone() {
 			break;
 		}
 		else {
-			player[i].deck.push_back(cur);
+			player[i].hold.push_back(cur);
 			player[i].motteruCard++;
 			if (getCardPoint(player[i]) == 21) {
 				cout << "BlackJack!!!" << endl;
@@ -152,7 +155,7 @@ void DrawEveryone() {
 				break;
 			}
 			else {
-				player[i].deck.push_back(cur);
+				player[i].hold.push_back(cur);
 				player[i].motteruCard++;
 				if (getCardPoint(player[i]) == 21) {
 					cout << "BlackJack!!!" << endl;
@@ -175,7 +178,7 @@ void DrawEveryone() {
 					cout << "덱 고갈!!!" << endl;
 				}
 				else {
-					player[i].deck.push_back(cur);
+					player[i].hold.push_back(cur);
 					player[i].motteruCard++;
 					if (getCardPoint(player[i]) == 21) {
 						cout << "BlackJack!!!" << endl;
@@ -199,7 +202,7 @@ void DrawEveryone() {
 			break;
 		}
 		else {
-			player[i].deck.push_back(cur);
+			player[i].hold.push_back(cur);
 			player[i].motteruCard++;
 			if (getCardPoint(player[i]) == 21) {
 				cout << "BlackJack!!!" << endl;
@@ -263,26 +266,30 @@ void Kaikei() {//결산
 	}
 }
 
-void startRound() {
-	Round++;
-	cout << "This Round is" << Round << endl;
-	PunPai();
-	ShowCard();
-	DrawEveryone();
-	Kaikei();
-}
-
 void endRound() {
 	for (int i = 0; i <= N; i++) {
-		player[i].deck.clear();
+		player[i].hold.clear();
 		player[i].motteruCard = 0;
 	}
 }
 
+
+void startRound() {
+	Round++;
+	cout << "This Round is " << Round << endl;
+	PunPai();
+	ShowCard();
+	DrawEveryone();
+	Kaikei();
+	endRound();
+}
+
+
 int main() {
+	srand((unsigned int)time(NULL));
 	cout << "Number of Players: " << endl;
 	cin >> N;
-	for (int i = 0; i < 4 * 14; i++) {
+	for (int i = 0; i < 4 * 13; i++) {
 		deck[i] = NUMBER_OF_DECK;//덱마다 52장인데, 이것들이 4장씩 있음.
 	}
 	for (int i = 0; i <= N; i++) {
