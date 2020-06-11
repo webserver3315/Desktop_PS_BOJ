@@ -1782,6 +1782,15 @@
     <ClCompile Include="SiSoSil_13W_HW1_cppver.cpp">
       <Filter>소스 파일\SKKU_Univ\시소실1\13W</Filter>
     </ClCompile>
+    <ClCompile Include="SiSoSil1_Final_Kansei.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\Final</Filter>
+    </ClCompile>
+    <ClCompile Include="SiSoSil1_Final_1C.c">
+      <Filter>소스 파일\SKKU_Univ\시소실1\Final</Filter>
+    </ClCompile>
+    <ClCompile Include="SiSosil_Final_1CPP.cpp">
+      <Filter>소스 파일\SKKU_Univ\시소실1\Final</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
