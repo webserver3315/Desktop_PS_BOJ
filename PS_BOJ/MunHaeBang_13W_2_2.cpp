@@ -105,7 +105,7 @@ signed main() {
 			}
 		}
 	}
-	sort(cross.begin(), cross.end(),greater<pdd>());
+	sort(cross.begin(), cross.end(),greater<pdd>());//내림차순
 	//cout << cross[0].ss << endl;
 	printf("%.3lf\n", cross[0].ss);
 
