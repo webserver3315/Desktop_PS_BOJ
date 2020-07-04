@@ -259,8 +259,11 @@
     <Filter Include="소스 파일\SKKU_Univ\시소실1\13W">
       <UniqueIdentifier>{e5ae5348-54e2-4249-a555-aeeb117e30b1}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\SKKU_Univ\문해방\NewFilter1">
+    <Filter Include="소스 파일\SKKU_Univ\문해방\Training">
       <UniqueIdentifier>{e9c9a446-4e0b-4068-a9ff-db6217df0e67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Solved\코포\2020.06.29">
+      <UniqueIdentifier>{a28bfdc3-ecdf-4e5f-8bc6-576bf2e12ed2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -1656,15 +1659,6 @@
     <ClCompile Include="SiSoSilTest2_1_2.cpp">
       <Filter>소스 파일\SKKU_Univ\시소실1\Test2</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ1753.cpp">
-      <Filter>소스 파일\SKKU_Univ\문해방</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ1922.cpp">
-      <Filter>소스 파일\SKKU_Univ\문해방</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ1922_2.cpp">
-      <Filter>소스 파일\SKKU_Univ\문해방</Filter>
-    </ClCompile>
     <ClCompile Include="BOJ1915.cpp">
       <Filter>소스 파일\BOJ\Solved\기타</Filter>
     </ClCompile>
@@ -1694,9 +1688,6 @@
     </ClCompile>
     <ClCompile Include="BOJ16401_2.cpp">
       <Filter>소스 파일\BOJ\Solved\기타</Filter>
-    </ClCompile>
-    <ClCompile Include="BOJ1916.cpp">
-      <Filter>소스 파일\SKKU_Univ\문해방</Filter>
     </ClCompile>
     <ClCompile Include="BOJ2178_2.cpp">
       <Filter>소스 파일\SKKU_Univ\문해방\10W</Filter>
@@ -1793,6 +1784,54 @@
     </ClCompile>
     <ClCompile Include="SiSosil_Final_1CPP.cpp">
       <Filter>소스 파일\SKKU_Univ\시소실1\Final</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1753.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\Training</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1916.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\Training</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1922.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\Training</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1922_2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\Training</Filter>
+    </ClCompile>
+    <ClCompile Include="MHB_L2.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\Training</Filter>
+    </ClCompile>
+    <ClCompile Include="MHB_L10.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\Training</Filter>
+    </ClCompile>
+    <ClCompile Include="MHB_L3.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\Training</Filter>
+    </ClCompile>
+    <ClCompile Include="MHB_L1.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\Training</Filter>
+    </ClCompile>
+    <ClCompile Include="MHB_L13.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\Training</Filter>
+    </ClCompile>
+    <ClCompile Include="MHB_L11.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\Training</Filter>
+    </ClCompile>
+    <ClCompile Include="MHB_L0.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\Training</Filter>
+    </ClCompile>
+    <ClCompile Include="MHB_L14.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\Training</Filter>
+    </ClCompile>
+    <ClCompile Include="MHB_L4.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방\Training</Filter>
+    </ClCompile>
+    <ClCompile Include="200629D.cpp">
+      <Filter>소스 파일\BOJ\Solved\코포\2020.06.29</Filter>
+    </ClCompile>
+    <ClCompile Include="MHB_L16.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방</Filter>
+    </ClCompile>
+    <ClCompile Include="MHB_L15.cpp">
+      <Filter>소스 파일\SKKU_Univ\문해방</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
