@@ -1833,6 +1833,9 @@
     <ClCompile Include="MHB_L15.cpp">
       <Filter>소스 파일\SKKU_Univ\문해방</Filter>
     </ClCompile>
+    <ClCompile Include="BOJ15903.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

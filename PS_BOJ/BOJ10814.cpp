@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+//#define _CRT_SECURE_NO_WARNINGS
 #define pis pair<int, string>
 #define ff first
 #define ss second
@@ -7,7 +8,7 @@
 using namespace std;
 
 int n;
-vector<pis> vct;
+deque<pis> vct;
 
 /*
 stable sort
