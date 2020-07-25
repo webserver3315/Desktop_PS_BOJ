@@ -1833,7 +1833,16 @@
     <ClCompile Include="MHB_L15.cpp">
       <Filter>소스 파일\SKKU_Univ\문해방</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ15903.cpp">
+    <ClCompile Include="BOJ15897.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ15649_MoMikkai.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ15650_MoMikkai_ChangMin.cpp">
+      <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ15897_2.cpp">
       <Filter>소스 파일\BOJ\Solving</Filter>
     </ClCompile>
   </ItemGroup>
