@@ -265,6 +265,9 @@
     <Filter Include="소스 파일\BOJ\Solved\코포\2020.06.29">
       <UniqueIdentifier>{a28bfdc3-ecdf-4e5f-8bc6-576bf2e12ed2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BOJ\Solving\UCPC2020">
+      <UniqueIdentifier>{87d55c3e-82a7-4a8b-b7a9-12b2e868d2b1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q9095.cpp">
@@ -1844,6 +1847,30 @@
     </ClCompile>
     <ClCompile Include="BOJ15897_2.cpp">
       <Filter>소스 파일\BOJ\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="UCPC2020_A.cpp">
+      <Filter>소스 파일\BOJ\Solving\UCPC2020</Filter>
+    </ClCompile>
+    <ClCompile Include="UCPC2020_B.cpp">
+      <Filter>소스 파일\BOJ\Solving\UCPC2020</Filter>
+    </ClCompile>
+    <ClCompile Include="UCPC2020_C.cpp">
+      <Filter>소스 파일\BOJ\Solving\UCPC2020</Filter>
+    </ClCompile>
+    <ClCompile Include="UCPC2020_D.cpp">
+      <Filter>소스 파일\BOJ\Solving\UCPC2020</Filter>
+    </ClCompile>
+    <ClCompile Include="UCPC2020_E.cpp">
+      <Filter>소스 파일\BOJ\Solving\UCPC2020</Filter>
+    </ClCompile>
+    <ClCompile Include="UCPC2020_F.cpp">
+      <Filter>소스 파일\BOJ\Solving\UCPC2020</Filter>
+    </ClCompile>
+    <ClCompile Include="UCPC2020_G.cpp">
+      <Filter>소스 파일\BOJ\Solving\UCPC2020</Filter>
+    </ClCompile>
+    <ClCompile Include="UCPC2020_H.cpp">
+      <Filter>소스 파일\BOJ\Solving\UCPC2020</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
