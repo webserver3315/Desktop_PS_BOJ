@@ -42,7 +42,7 @@ signed main(){
     for(int golemName=1; golemName <= K; golemName++){
         int r, c;
         cin >> r >> c;
-        golem_Initial_Location.
+        golem_Initial_Location.push_back()
     }
 
     vector<string> msg {
