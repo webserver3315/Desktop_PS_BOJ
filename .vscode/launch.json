@@ -1,0 +1,24 @@
+{
+    // Ref: https://skyqnaqna.tistory.com/entry/VS-Code%EC%97%90%EC%84%9C-WSL-2%EC%99%80-C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+    // Code Prettier tool: https://formatter.org/
+    "version" : "0.2.0",
+    "configurations" : [ {
+        "name" : "g++ build and debug active file",
+        "type" : "cppdbg",
+        "request" : "launch",
+        "program" : "${fileDirname}/${fileBasenameNoExtension}",
+        "args" : [],
+        "stopAtEntry" : false,
+        "cwd" : "${workspaceFolder}",
+        "environment" : [],
+        "externalConsole" : false,
+        "MIMode" : "gdb",
+        "setupCommands" : [ {
+            "description" : "Enable pretty-printing for gdb",
+            "text" : "-enable-pretty-printing",
+            "ignoreFailures" : true
+        } ],
+        "preLaunchTask" : "g++ build active file",
+        "miDebuggerPath" : "/usr/bin/gdb"
+    } ]
+}
