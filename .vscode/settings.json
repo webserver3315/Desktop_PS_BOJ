@@ -2,6 +2,7 @@
     "files.associations": {
         "span": "cpp",
         "type_traits": "cpp",
-        "tuple": "cpp"
+        "tuple": "cpp",
+        "random": "cpp"
     }
 }
